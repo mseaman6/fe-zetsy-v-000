@@ -69,3 +69,10 @@ h2 {
 	height: 0;
 	line-height: 0;
 }
+
+footer {
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+}
+
