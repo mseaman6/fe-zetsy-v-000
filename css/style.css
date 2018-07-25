@@ -52,4 +52,5 @@ h2 {
 
 #link-text a:link {
 	color: #0082BE;
+	text-decoration: none;
 }
