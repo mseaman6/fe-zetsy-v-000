@@ -47,7 +47,7 @@ h2 {
 
 #about a:hover {
 	color: #0082BE;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 #about a:link, #about a:visited {
