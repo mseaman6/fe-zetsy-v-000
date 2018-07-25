@@ -43,6 +43,10 @@ p {
 	display: block;
 }
 
+div {
+	display: block;
+}
+
 footer {
 	text-align: right;
 }
