@@ -9,6 +9,7 @@ body {
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif;
+	color: #555555;
 }
 
 .wrapper {
@@ -36,4 +37,14 @@ h2 {
 #featured-image {
 	border: 5px;
 	border-color: #93AFA6;
+}
+
+#press-images a {
+	border: 5px;
+	border-color: #CCCCCC;
+}
+
+
+link text {
+	color: #0082BE;
 }
