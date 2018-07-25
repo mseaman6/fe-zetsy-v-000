@@ -72,7 +72,7 @@ footer {
 	padding: 1px;
 }
 
-#press a:hover {
+#press a:hover img {
 	border: 5px;
 	border-color: #6B817A;
 	border-style: solid;
