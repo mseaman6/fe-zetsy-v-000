@@ -50,7 +50,7 @@ h2 {
 	text-decoration: underline;
 }
 
-#about a:link, #about a:hover, #about a:active {
+#about a:link, #about a:visited, #about a:active {
 	color: #0082BE;
 	text-decoration: none;
 }
