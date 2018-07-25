@@ -52,7 +52,6 @@ footer {
 	border: 5px;
 	border-color: #93AFA6;
 	border-style: solid;
-	padding: 1px;
 }
 
 #about {
@@ -67,6 +66,7 @@ footer {
 	border: 5px;
 	border-color: #CCCCCC;
 	border-style: solid;
+	padding: 1px;
 }
 
 #about a:link, #about a:visited {
