@@ -45,12 +45,12 @@ h2 {
 }
 
 
-#link-text a:hover {
+#about a:hover {
 	color: #0082BE;
 	text-decoration: underline;
 }
 
-#link-text a:link {
+#about a:link {
 	color: #0082BE;
 	text-decoration: none;
 }
