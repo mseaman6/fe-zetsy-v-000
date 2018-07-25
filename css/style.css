@@ -23,6 +23,11 @@ body {
 h1 {
 	font-family: Baskerville, serif;
 	border-bottom: 1px;
+	border-color: #93AFA6;
 	font-size: 80px;
 	color: #93AFA6;
+}
+
+#featured-image {
+	border:
 }
