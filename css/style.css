@@ -63,8 +63,9 @@ footer {
 }
 
 #press-images a {
-	border: 10px;
+	border: 5px;
 	border-color: #CCCCCC;
+	border-style: solid;
 }
 
 #about a:link, #about a:visited {
