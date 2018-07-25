@@ -44,6 +44,10 @@ h2 {
 	display: block;
 }
 
+#press-images {
+	display: block;
+}
+
 #press-images a {
 	border: 10px;
 	border-color: #CCCCCC;
