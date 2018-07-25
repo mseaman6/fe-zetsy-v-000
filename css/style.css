@@ -45,6 +45,11 @@ h2 {
 }
 
 
-link text {
+#link-text a:hover {
+	color: #0082BE;
+	text-decoration: underline;
+}
+
+#link-text a:link {
 	color: #0082BE;
 }
