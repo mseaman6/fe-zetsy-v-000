@@ -47,10 +47,8 @@ h2 {
 
 #about a:hover {
 	color: #0082BE;
-	text-decoration: line-through;
 }
 
 #about a:link, #about a:visited, #about a:active {
 	color: #0082BE;
-	text-decoration: none;
 }
