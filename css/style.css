@@ -25,6 +25,7 @@ h1 a {
 	font-family: Baskerville, serif;
 	border-bottom: 1px;
 	border-color: #555555;
+	border-style: solid;
 	font-size: 80px;
 	color: #93AFA6;
 	text-decoration: none;
