@@ -51,4 +51,5 @@ h2 {
 
 #about a:visited, #about a:active {
 	color: #0082BE;
+	text-decoration: none;
 }
