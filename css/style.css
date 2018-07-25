@@ -35,11 +35,17 @@ h2 {
 }
 
 #featured-image {
+	display: block;
 	border: 10px;
 	border-color: #93AFA6;
 }
 
+#about {
+	display: block;
+}
+
 #press-images a {
+	display: block;
 	border: 10px;
 	border-color: #CCCCCC;
 }
