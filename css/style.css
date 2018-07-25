@@ -29,5 +29,6 @@ h1 {
 }
 
 #featured-image {
-	border:
+	border: 5px;
+	border-color: #93AFA6;
 }
