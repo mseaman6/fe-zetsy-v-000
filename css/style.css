@@ -72,6 +72,13 @@ footer {
 	padding: 1px;
 }
 
+#press-images a:hover {
+	border: 5px;
+	border-color: #6B817A;
+	border-style: solid;
+	padding: 1px;
+}
+
 #about a:link, #about a:visited {
 	color: #0082BE;
 	text-decoration: none;
